@@ -12,6 +12,7 @@
 <body>
 
 <s:form action="echo">
+dskfddf
 	<s:textfield name="message" label="訊息AS"></s:textfield>
 	<s:submit value="提交"/>
 </s:form>
